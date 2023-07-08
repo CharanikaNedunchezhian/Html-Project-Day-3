@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color:black;
+    background-color: red;
+    background-image: url("https://media.licdn.com/dms/image/D4D03AQF18w4dRFg5dA/profile-displayphoto-shrink_800_800/0/1680539571479?e=2147483647&v=beta&t=Nq0zE22DTDG--Jdw4fXY1alkjdPePn6ygJQF7VcG9N8");
+
+}
+.form1{
+    border: 5px solid mediumvioletred;
+    width: 750;
+    height: 500;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 3px;
+    background-color: purple;
+    
+}
+#aa{
+    border: 1px solid maroon;
+    width: 200;
+    height: 475;
+    background-color: maroon;
+}
